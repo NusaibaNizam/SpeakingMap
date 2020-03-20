@@ -1,4 +1,4 @@
-#Fri Mar 20 12:50:19 BDT 2020
+#Fri Mar 20 15:09:39 BDT 2020
 base.0=G\:\\SpeakingMap\\Map\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

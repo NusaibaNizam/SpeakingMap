@@ -1245,7 +1245,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
             if(addresses!=null) {
                 address = addresses.get(0);
 
-                speak("Do you want direction for "+address.getAddressLine(0)+" . If yes, say confirm, If not say deny");
+                speak("Do you want direction for "+address.getAddressLine(0)+", "+placeName+" . If yes, say confirm, If not say deny");
 
                 confirm=true;
                 final Handler handler = new Handler();
