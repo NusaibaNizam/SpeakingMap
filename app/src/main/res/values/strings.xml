@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Speaking Map</string>
+    <string name="Map_api"> AIzaSyA5nN8sC8-gFUmueUaFh7zPXR_WZkVrX_s </string>
+    <string name="google_direction_api"> AIzaSyAVVxCGAJcXWDUad_dOGiShO158s_mClzQ </string>
+    <string name="google_near_by_places_api"> AIzaSyAAc2rX7Bv9aLLYyE9qT2QYji5oK_RwKL8 </string>
+    <string-array name="number">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item>eight</item>
+        <item>nine</item>
+        <item>ten</item>
+        <item>eleven</item>
+        <item>twelve</item>
+        <item>thirteen</item>
+        <item>fourteen</item>
+        <item>fifteen</item>
+        <item>sixteen</item>
+        <item>seventeen</item>
+        <item>eighteen</item>
+        <item>nineteen</item>
+        <item>twenty</item>
+        <item>twenty one</item>
+        <item>twenty two</item>
+        <item>twenty three</item>
+        <item>twenty four</item>
+        <item>twenty five</item>
+        <item>twenty six</item>
+        <item>twenty seven</item>
+        <item>twenty eight</item>
+        <item>twenty nine</item>
+        <item>thirty</item>
+        <item>thirty one</item>
+        <item>thirty two</item>
+        <item>thirty three</item>
+        <item>thirty four</item>
+        <item>thirty five</item>
+        <item>thirty six</item>
+        <item>thirty seven</item>
+        <item>thirty eight</item>
+        <item>thirty nine</item>
+        <item>forty</item>
+        <item>forty one</item>
+        <item>forty two</item>
+        <item>forty three</item>
+        <item>forty four</item>
+        <item>forty five</item>
+        <item>forty six</item>
+        <item>forty seven</item>
+        <item>forty eight</item>
+        <item>forty nine</item>
+        <item>fifty</item>
+        <item>fifty one</item>
+        <item>fifty two</item>
+        <item>fifty three</item>
+        <item>fifty four</item>
+        <item>fifty five</item>
+        <item>fifty six</item>
+        <item>fifty seven</item>
+        <item>fifty eight</item>
+        <item>fifty nine</item>
+        <item>sixty</item>
+    </string-array>
+</resources>

@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_local_gas_station_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_local_gas_station_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_local_atm_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_local_atm_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_remove_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_remove_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_local_cafe_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_local_cafe_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_directions_car_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_directions_car_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_direcction.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\layout\\activity_direcction.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info_outline_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_adjust_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_adjust_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_local_pharmacy_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_local_pharmacy_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_timeline_black_24dp.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_timeline_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_local_grocery_store_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_local_grocery_store_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_local_gas_station_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_local_gas_station_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_info_outline_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_local_pharmacy_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_local_pharmacy_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_local_gas_station_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_local_gas_station_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add_black_24dp.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_directions_car_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_directions_car_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_adjust_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_adjust_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_local_pharmacy_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_local_pharmacy_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_info_outline_black_24dp.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_info_outline_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\layout_places.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\layout\\places.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_local_atm_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_local_atm_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_directions_walk_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_directions_walk_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_local_atm_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_local_atm_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_hotel_black_24dp.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_hotel_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_local_gas_station_black_24dp.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_local_gas_station_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_timeline_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_timeline_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_adjust_black_24dp.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_adjust_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_remove_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_remove_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_adjust_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_adjust_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_hotel_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_hotel_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_directions_car_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_directions_car_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_local_atm_black_24dp.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_local_atm_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_hotel_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_hotel_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_hotel_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_hotel_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_local_pharmacy_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_local_pharmacy_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\menu_nav_bottom.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\menu\\nav_bottom.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_local_atm_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_local_atm_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_restaurant_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_restaurant_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_directions_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_directions_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_local_grocery_store_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_local_grocery_store_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_timeline_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_timeline_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_timeline_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_timeline_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_local_gas_station_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_local_gas_station_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_directions_walk_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_directions_walk_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_hotel_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_hotel_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_local_pharmacy_black_24dp.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_local_pharmacy_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_adjust_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_adjust_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_directions_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_directions_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_directions_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_directions_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_timeline_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_timeline_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_emergency_contact.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\layout\\activity_emergency_contact.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_local_atm_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_local_atm_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_directions_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_directions_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_restaurant_black_24dp.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_restaurant_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_info_outline_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_local_cafe_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_local_cafe_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info_outline_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_local_pharmacy_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_local_pharmacy_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_directions_walk_black_24dp.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_directions_walk_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_timeline_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_timeline_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_directions_black_24dp.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_directions_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\layout_instruction_single_row.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\layout\\instruction_single_row.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_local_gas_station_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_local_gas_station_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_remove_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_remove_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_local_grocery_store_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_local_grocery_store_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_remove_black_24dp.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_remove_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_instruction.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\layout\\fragment_instruction.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_restaurant_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_restaurant_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_directions_car_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_directions_car_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_local_grocery_store_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_local_grocery_store_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_restaurant_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_restaurant_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_adjust_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_adjust_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_local_pharmacy_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_local_pharmacy_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_local_grocery_store_black_24dp.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_local_grocery_store_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_restaurant_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_restaurant_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_directions_walk_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_directions_walk_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_local_cafe_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_local_cafe_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_directions_car_black_24dp.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_directions_car_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_directions_walk_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_directions_walk_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_info_outline_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_directions_walk_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_directions_walk_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_local_atm_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_local_atm_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_directions_car_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_directions_car_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_local_cafe_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_local_cafe_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_directions_car_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_directions_car_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_hotel_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_hotel_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_local_grocery_store_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_local_grocery_store_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info_outline_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_directions_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_directions_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_remove_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_remove_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_local_grocery_store_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_local_grocery_store_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_directions_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_directions_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_local_cafe_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_local_cafe_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_local_cafe_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_local_cafe_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_timeline_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_timeline_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_remove_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_remove_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_back_black_24dp.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_sheet.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\layout\\bottom_sheet.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\layout_places_single_row.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\layout\\places_single_row.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_hotel_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_hotel_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_local_gas_station_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_local_gas_station_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_remove_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_remove_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_restaurant_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_restaurant_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_local_cafe_black_24dp.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_local_cafe_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_directions_walk_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_directions_walk_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_adjust_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_adjust_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "G:\\SpeakingMap\\Map\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_restaurant_black_24dp.png.flat",
+        "source": "G:\\SpeakingMap\\Map\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_restaurant_black_24dp.png"
+    }
+]
