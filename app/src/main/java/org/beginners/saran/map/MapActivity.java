@@ -403,7 +403,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
                 }, new IntentFilter(DELIVERED));
         if(contacts!=null)
             smsManager.sendMultipartTextMessage(contacts.getPhoneNumber(), null, messages, listOfIntents,listOfDIntents);
-        else smsManager.sendMultipartTextMessage(contacts.getPhoneNumber(), null, messages, listOfIntents,listOfDIntents);
+        else smsManager.sendMultipartTextMessage(phoneString, null, messages, listOfIntents,listOfDIntents);
 
 
     }
@@ -899,7 +899,6 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
             }
         }
         else if(s.indexOf("send emergency text") != -1){
-
             if (ContextCompat.checkSelfPermission(MapActivity.this, Manifest.permission.SEND_SMS) != PackageManager.PERMISSION_GRANTED){
                 speak("You did not give permission for SMS");
             }else {
@@ -909,41 +908,42 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
                     emLocation = address.getAddressLine(0) + ". latitude:" + lat + " longitude: " + lng + ".";
 
                 }
+                if(s.indexOf("emergency contact")!=-1) {
+                    if (emergencyArrayList != null) {
 
-                if (emergencyArrayList != null) {
+                        boolean speakingEnd;
+                        speak("Sending");
 
-                    boolean speakingEnd;
-                    speak("Sending");
-
-                    do {
+                        do {
+                            speakingEnd = myTTS.isSpeaking();
+                        } while (speakingEnd);
                         speakingEnd = myTTS.isSpeaking();
-                    } while (speakingEnd);
-                    speakingEnd =myTTS.isSpeaking();
-                    for (Contacts contacts : emergencyArrayList) {
-                        final Handler handler = new Handler();
-                        handler.postDelayed(new Runnable() {
-                            @Override
-                            public void run() {
+                        for (Contacts contacts : emergencyArrayList) {
+                            final Handler handler = new Handler();
+                            handler.postDelayed(new Runnable() {
+                                @Override
+                                public void run() {
 
-                                Timestamp timestamp = new Timestamp(System.currentTimeMillis());
-                                sendMSG(MapActivity.this, contacts,null, "Help I am in an emergency! My battery level is " + batteryLevel + "%! My location is " + emLocation,timestamp.toString());
+                                    Timestamp timestamp = new Timestamp(System.currentTimeMillis());
+                                    sendMSG(MapActivity.this, contacts, null, "Help I am in an emergency! My battery level is " + batteryLevel + "%! My location is " + emLocation, timestamp.toString());
 
-                            }
-                        }, 30000);
+                                }
+                            }, 30000);
+                        }
+                    } else if (emergencyArrayList == null) {
+
+                        boolean speakingEnd;
+                        do {
+                            speakingEnd = myTTS.isSpeaking();
+                        } while (speakingEnd);
+                        speak("No emergency contact saved , to set emergency number say open emergency window." +
+                                " For this you will need the help of a visually able person");
+
+                        speakingEnd = myTTS.isSpeaking();
+                        do {
+                            speakingEnd = myTTS.isSpeaking();
+                        } while (speakingEnd);
                     }
-                }  else if(emergencyArrayList==null){
-
-                    boolean speakingEnd;
-                    do{
-                        speakingEnd = myTTS.isSpeaking();
-                    } while (speakingEnd);
-                    speak("No emergency contact saved , to set emergency number say open emergency window." +
-                            " For this you will need the help of a visually able person");
-
-                    speakingEnd =myTTS.isSpeaking();
-                    do{
-                        speakingEnd = myTTS.isSpeaking();
-                    } while (speakingEnd);
                 }
                 else {
                     smsPhoneNumber=true;
