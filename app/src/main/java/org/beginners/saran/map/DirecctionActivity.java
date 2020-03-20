@@ -522,7 +522,7 @@ public class DirecctionActivity extends AppCompatActivity implements OnMapReadyC
 
                     }else if(s.indexOf("2")!=-1|| s.indexOf("two")!=-1){
                         if(emergencyArrayList.size()>=2){
-                            phoneString0=emergencyArrayList.get(0).getPhoneNumber();
+                            phoneString0=emergencyArrayList.get(1).getPhoneNumber();
 
                         }else {
                             speak("Emergency 2 is not set, to set emergency number say open emergency window." +
@@ -530,7 +530,7 @@ public class DirecctionActivity extends AppCompatActivity implements OnMapReadyC
                         }
                     } else if(s.indexOf("3")!=-1|| s.indexOf("three")!=-1){
                         if(emergencyArrayList.size()>=3){
-                            phoneString0=emergencyArrayList.get(0).getPhoneNumber();
+                            phoneString0=emergencyArrayList.get(2).getPhoneNumber();
                         }else {
                             speak("Emergency 3 is not set, to set emergency number say open emergency window." +
                                     " For this you will need the help of a visually able person");
