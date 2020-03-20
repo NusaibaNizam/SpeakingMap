@@ -958,12 +958,12 @@ public class DirecctionActivity extends AppCompatActivity implements OnMapReadyC
 
 
     private void nextInstruction() {
-        speak("for next instructions long press on map an say then after the beep");
+        myTTS.speak("for next instructions long press on map an say then after the beep",TextToSpeech.QUEUE_ADD,null);
         boolean speakingEnd = myTTS.isSpeaking();
         do {
             speakingEnd = myTTS.isSpeaking();
         } while (speakingEnd);
-        speak("for details say 'help'");
+        myTTS.speak("for details say 'help'",TextToSpeech.QUEUE_ADD,null);
         index=2;
 
         sayNext=true;

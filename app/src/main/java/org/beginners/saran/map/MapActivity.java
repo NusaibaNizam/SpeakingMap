@@ -686,6 +686,10 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
         else if(confirm&&(s.indexOf("yes")!=-1)||s.indexOf("confirm")!=-1||s.indexOf("confirmed")!=-1){
             confirm=false;
             Intent intent = new Intent(MapActivity.this, DirecctionActivity.class);
+            intent.putExtra("startLat",address.getLatitude());
+            intent.putExtra("startLng",address.getLongitude());
+            intent.putExtra("startName",address.getLocality());
+            intent.putExtra("start",true);
             intent.putExtra("desLat", desIntentLat);
             intent.putExtra("desLng", desIntentLng);
             intent.putExtra("name", desName);
