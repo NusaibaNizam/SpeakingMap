@@ -499,8 +499,11 @@ public class DirecctionActivity extends AppCompatActivity implements OnMapReadyC
 
 
     private void processResult(String s) {
+        //Toast.makeText(DirecctionActivity.this,s,Toast.LENGTH_LONG).show();
+
         s=s.toLowerCase();
-        if(s.indexOf("which way am")!=-1){
+        if(s.indexOf("am i facing")!=-1){
+            //Toast.makeText(DirecctionActivity.this,"hi",Toast.LENGTH_LONG).show();
             boolean speakingEnd;
 
             speak("You Are Facing "+facingWay);
@@ -652,12 +655,14 @@ public class DirecctionActivity extends AppCompatActivity implements OnMapReadyC
         }else if(yes && s.indexOf("no")!=-1){
             yes=false;
         }
-        else if(s.indexOf("all done")!=-1){
+        else if(s.indexOf("complete")!=-1){
             Intent intent=new Intent(DirecctionActivity.this,MapActivity.class);
+            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
             intent.putExtra("lowSaid",lowSaid);
             intent.putExtra("lowSaid2",lowSaid2);
             intent.putExtra("batteryLevel",batteryLevel);
             startActivity(intent);
+            DirecctionActivity.this.finish();
 
         } else if (s.indexOf("then")!=-1){
             boolean speakingEnd;
@@ -762,7 +767,7 @@ public class DirecctionActivity extends AppCompatActivity implements OnMapReadyC
             } while (speakingEnd);
 
 
-            speak("to get directions or nearby locations first say all done, then follow instructions");
+            speak("to get directions or nearby locations first say completed, then follow instructions");
             speakingEnd =myTTS.isSpeaking();
             do{
                 speakingEnd = myTTS.isSpeaking();

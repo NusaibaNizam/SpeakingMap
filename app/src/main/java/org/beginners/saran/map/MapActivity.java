@@ -601,6 +601,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
 
 
     private void processResult(String s) {
+        //Toast.makeText(MapActivity.this,s,Toast.LENGTH_LONG).show();
         s=s.toLowerCase();
         if(s.indexOf("where am")!=-1){
             if(address!=null){
@@ -836,10 +837,18 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
 
 
         }
-        else if(s.indexOf("instructions for place ") != -1){
-            int index=s.indexOf("instructions for place ");
+        else if(s.indexOf("instructions for ") != -1||s.indexOf("instruction for ") != -1){
+            int index;
+            String x;
+            if(s.indexOf("instructions for ") != -1) {
+                index = s.indexOf("instructions for ");
+                x="instructions for ";
+            }
+            else {
+                index = s.indexOf("instruction for ");
+                x="instruction for ";
+            }
             int placeIndex;
-            String x="instructions for place ";
             String placeName=s.substring(index+x.length());
             Toast.makeText(this,placeName,Toast.LENGTH_SHORT).show();
             try {
@@ -864,7 +873,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
                     startActivity(intent);
                 }
                 if(error) {
-                    speak("Sorry! I didn't get that!");
+                    speak("Sorry!");
                 }
 
             }catch (NumberFormatException e){
@@ -1247,10 +1256,10 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
 
         if(places.size()>5)
             speakSpeech(listSmall+" To know the name of other places say, More! To get direction for any of these places, say, " +
-                    "instructions for place, and than say place number. Like instructions for place 1");
+                    "instructions for, and than say place number. Like instructions for 1");
         else {
             speakSpeech(listSmall+" To get direction for any of these places, say, " +
-                    "instructions for place, and than say place number. Like instructions for place 1");
+                    "instructions for, and than say place number. Like instructions for 1");
         }
         listSmall="";
         do {
@@ -1665,7 +1674,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
                             }
                         } else {
 
-                            for(int i=5;i<places.size();i++){
+                            for(int i=0;i<places.size();i++){
 
                                 NearByPlacesResponse.Result place = places.get(i);
                                 listSmall+=i+1+". "+place.getName() +"   . ";
